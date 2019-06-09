@@ -1,0 +1,15 @@
+Game Instructions:
+
+Open the index file to open the web game application using either Mozilla Firefox, Internet Explorer or Microsoft Edge.
+
+The game will only open on Google Chrome if security restrictions are disabled, therefore use the platforms mentioned above to avoid complications. 
+
+To view the source code open the SandsOfEgyptProject.pde file containing the processing code for the game with all classes, objects, methods and game elements. 
+
+Game Controls:
+
+Use keyboard left, right arrow commands to move player left and right.
+
+Up keyboard arrow command for player jump.
+
+Spacebar to reset the game once game over is triggered. 

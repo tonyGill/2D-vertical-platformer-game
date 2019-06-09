@@ -1,0 +1,7 @@
+1. Download NodeJS at https://nodejs.org/en/
+2. Have a SQL server running, either MySQL or XAMPP MariaDB.
+3. Change connection settings in server.js
+4. Open up terminal or command prompt to this folder.
+5. Type "npm install"
+6. Type "npm start"
+7. You should now be able to GET request to "localhost/api/saveScore" with GET parameters.
